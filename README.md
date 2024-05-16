@@ -14,6 +14,7 @@
 
    ```sh
    git clone https://github.com/your-username/ad-blocker-extension.git
+   ```
 
 1. このリポジトリをローカルマシンにクローンします。
 2. Chromeブラウザで `chrome://extensions/` にアクセスし、「デベロッパーモード」をオンにします。
